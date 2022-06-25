@@ -1,9 +1,9 @@
-# Project Name
+# Hurricane Satellite Images Damage Detector
 
 example image:
 
 
-![alternative text](reports/img/pic01.jpg)
+![](https://dds-lab.github.io/disaster-damage-detection/satellite.png)
 
 
 #### -- Project Status: [Active, On-Hold, Completed]
