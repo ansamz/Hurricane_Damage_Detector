@@ -1,7 +1,5 @@
 # Hurricane Satellite Images Damage Detector
 
-example image:
-
 
 ![](https://dds-lab.github.io/disaster-damage-detection/satellite.png)
 
